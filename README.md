@@ -4,6 +4,8 @@ layout: Page
 title: Subash Basnyat
 ---
 
+[Link to another page](another-page).
+
 This is an about page about this awesome site.
 Hope you love it!
 
