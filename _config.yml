@@ -1,2 +1,5 @@
 theme: jekyll-theme-cayman
 gem "github-pages", group: :jekyll_plugins
+
+title: Subash Basnet
+description: Welcome to my site
