@@ -20,7 +20,7 @@ method="POST" enctype="multipart/form-data" target="_blank">
     </div>
     <div class="form-group">
         <label for="input_message">Message</label>
-        <input type="text" name="name" class="form-control" id="input_message" placeholder="Enter your message" required="required">
+        <input type="text" name="message" class="form-control" id="input_message" placeholder="Enter your message" required="required">
     </div>
     <hr>
     <button type="submit" class="btn btn-primary">Submit</button>
